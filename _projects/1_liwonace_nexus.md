@@ -13,7 +13,7 @@ github: https://github.com/qixiangme/liwonace-nexus
 Natural-language search over internal documents, relational data, and a knowledge graph — fully on-premise, no external AI API.
 Data access is exposed as [MCP](https://modelcontextprotocol.io/) tools; the agent routes each question to document search, NL2SQL, or graph traversal and returns the answer with the tools used, sources, and latency.
 
-- Top-2 finalist, Corporate Designated Task (Liwonace), Open Source Developer Competition 2026 (MSIT/NIPA); grand-prize evaluation in progress
+- Top-2 finalist, Corporate Designated Task (Liwonace), Open Source Developer Competition 2026 (MSIT/NIPA)
 - Ported agent + MCP server from Spring AI to Go and benchmarked both: 100% routing / answer accuracy on 302 questions, Go at ~1/11 the resources
 - Fixed answerability gate, KG search, and SQL planner bugs: accuracy 40% → 90% → 100%
 
