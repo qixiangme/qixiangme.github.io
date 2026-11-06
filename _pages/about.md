@@ -31,7 +31,7 @@ Computer Science and Engineering student at **Kyung Hee University**, interested
 
 #### Experience
 
-- **SPICS Lab, Kyung Hee University** — Undergraduate Researcher · 2026.09–
+- **SPICS Lab, Kyung Hee University** — Intern · 2026.09–
 
 #### Education
 
@@ -40,7 +40,7 @@ Computer Science and Engineering student at **Kyung Hee University**, interested
 #### Projects
 
 - **[Attestamp](https://github.com/spicslab-kr/tee-blockchain)** — SPICS Lab, Kyung Hee University × [Datarmor](https://datarmor.ai/) · 2026 — Remote attestation for TEE workloads with an on-chain measurement registry
-- **[Liwonace Nexus](https://github.com/qixiangme/liwonace-nexus)** — [Liwonace Co., Ltd.](https://liwonace.co.kr/) · 2026 — On-premise MCP-based data search platform · Top 2, Open Source Developer Competition 2026 (MSIT/NIPA)
+- **[Liwonace Nexus](https://github.com/qixiangme/liwonace-nexus)** — [Liwonace Co., Ltd.](https://liwonace.co.kr/) · 2026 — On-premise MCP-based data search platform · Top-2 finalist, Corporate Designated Task (Liwonace), Open Source Developer Competition 2026 (MSIT/NIPA)
 - **[Return Cloud Platform](https://github.com/KHU-RETURN/rcp-server)** — RETURN, KHU CSE student club · 2025– — Student cloud platform on OpenStack
 - Plus several side projects — see [projects](/projects/)
 
