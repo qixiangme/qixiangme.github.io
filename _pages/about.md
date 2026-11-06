@@ -46,6 +46,6 @@ Computer Engineering student at **Kyung Hee University**, interested in **LLM se
 
 #### Security & Open Source
 
-- **[CVE-2026-59318](https://spring.io/security/cve-2026-59318)** — Spring AI, unadvertised tool dispatch via prompt injection. Rated **CVSS 9.8 Critical** by [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-59318) · Credited reporter · covered by [Sonatype](https://www.sonatype.com/blog/91-spring-cves-highlight-the-growing-ai-vulnerability-consumption-problem)
+- **[CVE-2026-59318](https://spring.io/security/cve-2026-59318)** — Spring AI, unadvertised tool dispatch via prompt injection. Rated **CVSS 9.8 Critical** by [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-59318) · Credited reporter · covered by [Sonatype](https://www.sonatype.com/blog/91-spring-cves-highlight-the-growing-ai-vulnerability-consumption-problem#:~:text=CVE%2D2026%2D59318%3A%20Spring%20AI%20Tool%20Calling%20Can%20Bypass%20Request%20Boundaries)
 - **Spring AI** — MCP/local tool name collision: reported, documented in [`fd3fd6e`](https://github.com/spring-projects/spring-ai/commit/fd3fd6ec700340b90c3d516be57c6e6c87dd7df1)
 - **Spring AI** — Fix Kotlin nullable fields in MCP tool input schema: [`01116e9`](https://github.com/spring-projects/spring-ai/commit/01116e900576f81531469e8b314ede74db9c05c4)
