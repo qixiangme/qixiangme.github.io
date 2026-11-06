@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Engineering student · Kyung Hee University
+subtitle: Computer Science and Engineering student · Kyung Hee University
 
 profile:
   align: right
@@ -21,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-Computer Engineering student at **Kyung Hee University**, interested in **LLM security** — multi-agent systems, RAG, MCP, and agent harnesses. I mostly build in **Go**.
+Computer Science and Engineering student at **Kyung Hee University**, interested in **LLM security** — multi-agent systems, RAG, MCP, and agent harnesses. I mostly build in **Go**.
 
 #### Interests
 
@@ -35,13 +35,13 @@ Computer Engineering student at **Kyung Hee University**, interested in **LLM se
 
 #### Education
 
-- **Kyung Hee University** — B.S. Computer Engineering · 2024–
+- **Kyung Hee University** — B.S. Computer Science and Engineering · 2024–
 
 #### Projects
 
 - **[Attestamp](https://github.com/spicslab-kr/tee-blockchain)** — SPICS Lab, Kyung Hee University × [Datarmor](https://datarmor.ai/) · 2026 — Remote attestation for TEE workloads with an on-chain measurement registry
 - **[Liwonace Nexus](https://github.com/qixiangme/liwonace-nexus)** — [Liwonace Co., Ltd.](https://liwonace.co.kr/) · 2026 — On-premise MCP-based data search platform · Top 2, Open Source Developer Competition 2026 (MSIT/NIPA)
-- **[Return Cloud Platform](https://github.com/KHU-RETURN/rcp-server)** — RETURN, KHU cloud club · 2025– — Student cloud platform on OpenStack
+- **[Return Cloud Platform](https://github.com/KHU-RETURN/rcp-server)** — RETURN, KHU CSE student club · 2025– — Student cloud platform on OpenStack
 - Plus several side projects — see [projects](/projects/)
 
 #### Security & Open Source
