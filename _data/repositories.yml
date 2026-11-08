@@ -1,0 +1,10 @@
+github_users:
+  - qixiangme
+
+repo_description_lines_max: 2
+
+github_repos:
+  - qixiangme/liwonace-nexus
+  - spicslab-kr/tee-blockchain
+  - KHU-RETURN/rcp-server
+  - spring-projects/spring-ai
